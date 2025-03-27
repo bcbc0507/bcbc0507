@@ -79,9 +79,11 @@ For questions or issues, please contact:
 
 Name: Edlin
 
+LINE ID: bcbc0507
+
 LinkedIn: https://www.linkedin.com/in/edlin-variste-12376b219/
 
-Email: edlin.variste8@gmail.comedlin.variste8@gmail.com
+Email: edlin.variste8@gmail.com
 
 Tel: +886-9-71715-086
 
