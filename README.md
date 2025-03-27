@@ -79,7 +79,7 @@ For questions or issues, please contact:
 
 Name: Edlin
 
-LINE ID: bcbc0507
+LINE ID: https://line.me/ti/p/MZr-9FDzlp
 
 LinkedIn: https://www.linkedin.com/in/edlin-variste-12376b219/
 
