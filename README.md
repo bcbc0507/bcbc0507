@@ -27,7 +27,9 @@ This Simulink file contains the block diagram implementation of the electric mot
 
 It uses the parameters defined in **Motoring_Gear_param.m** to simulate the motor's behavior.
 
-You can set input parameters (e.g., voltage) and read output data (e.g., rotor speeds).
+You can set input parameters (e.g., voltage) and read output data (e.g., rotor speeds). 
+
+Important: There are some other motor model(stepper...) in the simulink file, you have to comment ON them, and comment OUT the motoring gear model only so that you can only run and analyse the motoring gear.   
 
 ## 3. Open and Run the MATLAB File (**Motoring_Gear_param.m**)
 
